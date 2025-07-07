@@ -10,7 +10,7 @@ print(users[0])
 print(users[-2])
 
 print(users.index('Sara'))
-
+print("this is 1")
 print(users[0:2])
 print(users[1:])
 print(users[-3:-1])
