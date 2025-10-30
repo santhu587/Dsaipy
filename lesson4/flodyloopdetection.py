@@ -17,3 +17,16 @@ class Solution:
                 return True
         return False
 
+'''
+
+curr=head
+        
+        list1=set()
+        while curr:
+            if curr not in list1:
+                list1.add(curr)
+            else:
+                return True
+            curr=curr.next
+        return False
+'''
